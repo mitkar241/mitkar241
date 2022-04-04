@@ -20,15 +20,20 @@
       <p align="right">
         <img src="https://komarev.com/ghpvc/?username=mitkar241&label=Profile%20views&color=0e75b6&style=flat" alt="mitkar241" />
       </p>
-      <p align="right">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mitkar241&show_icons=true&locale=en&layout=compact" alt="mitkar241" />
-      </p>
     </td>
   </tr>
 </table>
 
 ---
 
-![github-stats](https://github-readme-stats.vercel.app/api?username=mitkar241&show_icons=true&locale=en) ![github-streak](https://github-readme-streak-stats.herokuapp.com/?user=mitkar241)
+![github-stats](https://github-readme-stats.vercel.app/api?username=mitkar241&show_icons=true&locale=en)
+
+---
+
+![github-streak](https://github-readme-streak-stats.herokuapp.com/?user=mitkar241)
+
+---
+
+![top-lang](https://github-readme-stats.vercel.app/api/top-langs?username=mitkar241&show_icons=true&locale=en&layout=compact)
 
 ---
