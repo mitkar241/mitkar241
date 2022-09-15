@@ -77,15 +77,9 @@ me.printObjective()
 
 ---
 
-![github-stats](https://github-readme-stats.vercel.app/api?username=mitkar241&show_icons=true&locale=en)
-
----
-
-![github-streak](https://github-readme-streak-stats.herokuapp.com/?user=mitkar241)
-
----
-
-![top-lang](https://github-readme-stats.vercel.app/api/top-langs?username=mitkar241&show_icons=true&locale=en&layout=compact)
+|  |  |  |
+| --- | --- | --- |
+| ![github-streak](https://github-readme-streak-stats.herokuapp.com/?user=mitkar241) | ![github-stats](https://github-readme-stats.vercel.app/api?username=mitkar241&show_icons=true&locale=en) | ![top-lang](https://github-readme-stats.vercel.app/api/top-langs?username=mitkar241&show_icons=true&locale=en&layout=compact) |
 
 ---
 
@@ -93,14 +87,7 @@ me.printObjective()
   🗂️ Highlight Projects
 </h1>
 
-<a href="https://github.com/mitkar241/shoperu">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mitkar241&repo=shoperu&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="shoperu" />
-</a>
-
-<a href="https://github.com/mitkar241/ipatser">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mitkar241&repo=ipatser&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="ipatser" />
-</a>
-
-<a href="https://github.com/mitkar241/meerkot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mitkar241&repo=meerkot&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="meerkot" />
-</a>
+|  |  |  |
+| --- | --- | --- |
+| <a href="https://github.com/mitkar241/shoperu"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mitkar241&repo=shoperu&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="shoperu" /></a> | <a href="https://github.com/mitkar241/ipatser"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mitkar241&repo=ipatser&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="ipatser" /></a> | <a href="https://github.com/mitkar241/meerkot"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mitkar241&repo=meerkot&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="meerkot" /></a> |
+| <a href="https://github.com/mitkar241/ansible"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mitkar241&repo=ansible&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="shoperu" /></a> | <a href="https://github.com/mitkar241/terraform"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mitkar241&repo=terraform&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="ipatser" /></a> | <a href="https://github.com/mitkar241/kubernetes"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mitkar241&repo=kubernetes&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="meerkot" /></a> |
