@@ -9,6 +9,8 @@
 
 ![VISITORS](https://komarev.com/ghpvc/?username=mitkar241&label=VISITORS&color=0e75b6&style=flat)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
+[![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mitkar241)
+[![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raktimhalder241@gmail.com)
 
 <table>
   <tr>
