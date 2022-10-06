@@ -32,8 +32,9 @@
 
 ---
 
-| ![github-streak](https://github-readme-streak-stats.herokuapp.com/?user=mitkar241) | ![github-stats](https://github-readme-stats.vercel.app/api?username=mitkar241&show_icons=true&locale=en) | ![top-lang](https://github-readme-stats.vercel.app/api/top-langs?username=mitkar241&show_icons=true&locale=en&layout=compact) |
+| Streak | Stats | Languages |
 | --- | --- | --- |
+| ![github-streak](https://github-readme-streak-stats.herokuapp.com/?user=mitkar241) | ![github-stats](https://github-readme-stats.vercel.app/api?username=mitkar241&show_icons=true&locale=en) | ![top-lang](https://github-readme-stats.vercel.app/api/top-langs?username=mitkar241&show_icons=true&locale=en&layout=compact) |
 
 ---
 
