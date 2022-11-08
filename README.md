@@ -61,8 +61,6 @@
 ### Website:
 <a href="https://github.com/mitkar241/mitkar241.github.io"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mitkar241&repo=mitkar241.github.io&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="mitkar241.github.io" /></a>
 
-Update needed in Kubernetes section vvv
-
 | Task | Base | Tools |
 | --- | --- | --- |
 | Generic | <a href="https://github.com/mitkar241/mitkar241"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mitkar241&repo=mitkar241&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="mitkar241" /></a> | <a href="https://github.com/mitkar241/dsc"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mitkar241&repo=dsc&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="dsc" /></a> <br> <a href="https://github.com/mitkar241/domain"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mitkar241&repo=domain&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="domain" /></a> <br> <a href="https://github.com/mitkar241/collaboration"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mitkar241&repo=collaboration&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="collaboration" /></a> |
