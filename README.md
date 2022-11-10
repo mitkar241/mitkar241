@@ -16,8 +16,8 @@
   <tr>
     <td>
       <ul>
-        <li>I like to work on open source projects / tools that can be used to enhance product of the company.</li>
-        <li>I am more of a "Software Developer, who became a SysAdmin" - type of DevOps Engineer.</li>
+        <li>I like working on open source projects / tools that can be used to enhance product of the company.</li>
+        <li>I am obsessed with bootstrapping tools - automate everything using CLI / commands.</li>
         <li>I work on my open source projects every day to ensure steady growth as a DevOps Engineer.</li>
       </ul>
     </td>
