@@ -64,7 +64,8 @@
 *TODO*:
 
 - No. of Repos is increasing steadily
-- Better maintain in a different format, like tree (?)
+- Better maintain in a different format
+  - front runner: tree format
 - Keep samples of the existing representation of repos
 
 | Task | Base | Tools |
